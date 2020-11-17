@@ -1,0 +1,1074 @@
+{
+    "rss": {
+      "$": {
+        "xmlns:atom": "http://www.w3.org/2005/Atom",
+        "xmlns:ht": "https://trends.google.com/trends/trendingsearches/daily",
+        "version": "2.0"
+      },
+      "channel": [
+        {
+          "title": [
+            "Daily Search Trends"
+          ],
+          "description": [
+            "Recent searches"
+          ],
+          "link": [
+            "https://trends.google.com/trends/trendingsearches/daily?geo=US"
+          ],
+          "atom:link": [
+            {
+              "$": {
+                "href": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US",
+                "rel": "self",
+                "type": "application/rss+xml"
+              }
+            }
+          ],
+          "item": [
+            {
+              "title": [
+                "Jerry Stiller"
+              ],
+              "ht:approx_traffic": [
+                "2,000,000+"
+              ],
+              "description": [
+                "Ben Stiller, anne meara, Amy Stiller, King of Queens, Frank Costanza, Seinfeld, ben stiller jerry stiller, Stiller, Kevin James, jerry stiller seinfeld, Leah Remini"
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jerry%20Stiller"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 03:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t1.gstatic.com/images?q=tbn:ANd9GcRLkHoSxrtQTPZNN3OJV3kVdj3hh0kMC-zlaiL9a0KgMpeKCOI8zejz4kGXvEuI_YUSZv_i4oUP"
+              ],
+              "ht:picture_source": [
+                "The New York Times"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "In Jerry Stiller, the Rage of Jewish Fathers Found a Hilarious Outlet"
+                  ],
+                  "ht:news_item_snippet": [
+                    "The comic actor&#39;s rat-a-tat timing and bristling bass reminded us why we loved those strange, embarrassing relatives."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.nytimes.com/2020/05/11/arts/television/jerry-stiller-remembrance.html"
+                  ],
+                  "ht:news_item_source": [
+                    "The New York Times"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Jerry Stiller Dies: Comedian &amp; &#39;Seinfeld&#39; Actor Was 92; Son Ben ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Ben Stiller, Jerry&#39;s son, gave a tribute to his father on twitter."
+                  ],
+                  "ht:news_item_url": [
+                    "https://deadline.com/2020/05/jerry-stiller-dies-comedian-seinfeld-actor-92-ben-tribute-1202931049/"
+                  ],
+                  "ht:news_item_source": [
+                    "Deadline"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Corey La Barrie"
+              ],
+              "ht:approx_traffic": [
+                "200,000+"
+              ],
+              "description": [
+                "Daniel Silva"
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Corey%20La%20Barrie"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 12:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t3.gstatic.com/images?q=tbn:ANd9GcRcAkBxqbn6iFzYK4SdJbsXn88nZ-v84fjKm9o5iPs5Uq9vFSYXwldF0yzGmnzbDXk2JIFmCUKP"
+              ],
+              "ht:picture_source": [
+                "INSIDER"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "YouTuber Corey La Barrie is dead following a car accident - Insider"
+                  ],
+                  "ht:news_item_snippet": [
+                    "YouTuber Corey La Barrie reportedly died in a car accident involving &quot;Ink Master&quot; star Daniel Silva on May 10, as TMZ reported."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.insider.com/corey-la-barrie-daniel-silva-car-accident-death-2020-5"
+                  ],
+                  "ht:news_item_source": [
+                    "INSIDER"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "YouTube Star Corey La Barrie Dead on 25th Birthday Following Car ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "The fatal crash occurred on Sunday at about 9:30 p.m,. a spokesman for the Los Angeles Police Department tells PEOPLE."
+                  ],
+                  "ht:news_item_url": [
+                    "https://people.com/tv/youtube-star-corey-la-barrie-dead/"
+                  ],
+                  "ht:news_item_source": [
+                    "PEOPLE.com"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "IRS stimulus check status"
+              ],
+              "ht:approx_traffic": [
+                "200,000+"
+              ],
+              "description": [
+                "stimulus check 2020"
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#IRS%20stimulus%20check%20status"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 11:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t1.gstatic.com/images?q=tbn:ANd9GcTFugo2KwcW0lOoY0Gdb2HU7E6b-HMaS1i7U4Vhz1B0ZrVjzZHcksAAPdkSvKfbEJEjG4ixyefI"
+              ],
+              "ht:picture_source": [
+                "Washington Post"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Still waiting for your stimulus check? You have until 12 p.m. ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Millions of people still haven&#39;t received their stimulus payments, including Social Security recipients."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.washingtonpost.com/business/2020/05/11/still-waiting-your-stimulus-check-you-have-until-12-pm-wednesday-give-irs-your-bank-information/"
+                  ],
+                  "ht:news_item_source": [
+                    "Washington Post"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "IRS says more stimulus checks are &#39;on the way&#39;—and explained why ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "The IRS spelled out several reasons why people might have been expecting one number on their check, but ended up with a different amount in their bank&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://fortune.com/2020/05/11/irs-stimulus-check-2020-status-tracker-update-get-my-payment-checks-amount-when-child-credit-reduced-faq/"
+                  ],
+                  "ht:news_item_source": [
+                    "Fortune"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Christine Taylor"
+              ],
+              "ht:approx_traffic": [
+                "100,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christine%20Taylor"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 05:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t1.gstatic.com/images?q=tbn:ANd9GcRNTe2Aki5-PF0jg1DKTGj2j-HFLtRv6oQ4nBQPr6y6t2mY6JPlkEqUQHNbRwFNV1LhsFlf7G_5"
+              ],
+              "ht:picture_source": [
+                "Distractify"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Is Ben Stiller Dating Again After His Split From &#39;Dodgeball&#39; Co-Star ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Best known for his roles in Zoolander, Night at the Museum, Dodgeball, Tropic Thunder, and the Meet the Parents franchise, Ben Stiller has been gracing the big&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.distractify.com/p/ben-stiller-girlfriend"
+                  ],
+                  "ht:news_item_source": [
+                    "Distractify"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Katie Price&#39;s disabled son Harvey launching his own YouTube ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "HOLLYWOOD couple Ben Stiller and Christine Taylor announced their shock split in 2017 after 18 years together. The pair, who were married for 17 years and&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.thesun.co.uk/tvandshowbiz/11594410/who-is-ben-stiller-ex-wife-christine-taylor/"
+                  ],
+                  "ht:news_item_source": [
+                    "The Sun"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Bitcoin halving"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bitcoin%20halving"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 11:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t1.gstatic.com/images?q=tbn:ANd9GcQ-caK9R-pYwDKBmEsGA99dReAyUrCTlB0saKH8VTPbGMyQHD28whQiC0vKtgNeUdlkGiQkvaGj"
+              ],
+              "ht:picture_source": [
+                "Forbes"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Bitcoin Halving: Experts Think You Should Buy Only If You&#39;re ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Despite the bitcoin block halving event, market sentiment remains bearish and closely tied to stocks. Investors should expect higher volatility in the short-term."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.forbes.com/sites/oluwaseunadeyanju/2020/05/11/bitcoin-halving-unlikely-to-drive-btc-price-higher-in-the-short-term/"
+                  ],
+                  "ht:news_item_source": [
+                    "Forbes"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Bitcoin undergoes 3rd &#39;halving&#39;, falls vs U.S. dollar"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Bitcoin slid on Monday in volatile trading, after it went through a technical adjustment that reduced the rate at which new coins are created, but the outlook&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cnbc.com/2020/05/11/bitcoin-undergoes-3rd-halving-falls-vs-us-dollar.html"
+                  ],
+                  "ht:news_item_source": [
+                    "CNBC"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Jevon King"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                "Diplo"
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jevon%20King"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 13:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t3.gstatic.com/images?q=tbn:ANd9GcQ9sNSnlg_gk_YyONMf7nT_AOqsu-ybFtpq_MlJJy-6U42JPh1GuOC3H2qBMrYto70bq3bLQbvA"
+              ],
+              "ht:picture_source": [
+                "NBCNews.com"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Diplo hasn&#39;t met son with model Jevon King because of coronavirus"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Diplo, father of Lazer and Lockett, confirmed in a Mother&#39;s Day Instagram post that he has another son named Pace with model Jevon King."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.nbcnews.com/pop-culture/pop-culture-news/diplo-introduces-son-model-jevon-king-mother-s-day-message-n1204376"
+                  ],
+                  "ht:news_item_source": [
+                    "NBCNews.com"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Diplo confirms he has a son with model Jevon King - CNN"
+                  ],
+                  "ht:news_item_snippet": [
+                    "In an emotional Mother&#39;s Day message, Diplo confirmed he has a baby boy with pageant queen and model Jevon King."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cnn.com/2020/05/11/entertainment/diplo-confirms-son-jevon-king-intl-scli/index.html"
+                  ],
+                  "ht:news_item_source": [
+                    "CNN"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Mike Tyson"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Tyson"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 15:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t3.gstatic.com/images?q=tbn:ANd9GcQi5Q-OaS70rhKhOCOadbpIHA-hWhVLiZbT5K-fqRvWNzAvR8U2sYGNq9RXiaQy0txfKVpBDdJx"
+              ],
+              "ht:picture_source": [
+                "CBSSports.com"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Mike Tyson declares &#39;I&#39;m back&#39; as he shows off hand speed and ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Tyson previously announced he wanted to step back in the boxing ring for exhibition fights."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cbssports.com/boxing/news/mike-tyson-declares-im-back-as-he-shows-off-hand-speed-and-punching-power/"
+                  ],
+                  "ht:news_item_source": [
+                    "CBSSports.com"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Mike Tyson, 53, teases comeback: &#39;It may not be over yet&#39;"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Tyson will be 54 next month and has floated the idea of a charity exhibition."
+                  ],
+                  "ht:news_item_url": [
+                    "https://sports.yahoo.com/mike-tyson-53-teases-comeback-it-may-not-be-over-yet-203856082.html"
+                  ],
+                  "ht:news_item_source": [
+                    "Yahoo Sports"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "AMC stock"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#AMC%20stock"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 09:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t2.gstatic.com/images?q=tbn:ANd9GcRCKq6A33LtIYVXt4mUfCWungD7bkeuyfVvdATfpvcAKupnfBj-hxBcW98yF6AUpML7TnWDY0fm"
+              ],
+              "ht:picture_source": [
+                "Barron's"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "AMC Stock Jumps on Report of Talks With Amazon.com"
+                  ],
+                  "ht:news_item_snippet": [
+                    "The Daily Mail says the troubled movie-theater chain AMC Entertainment had discussions with Amazon.com about selling itself, but Deadline says there are no&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.barrons.com/articles/amc-entertainment-stock-jumps-on-report-of-talks-with-amazon-51589214284"
+                  ],
+                  "ht:news_item_source": [
+                    "Barron's"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "AMC&#39;s stock is surging on reports Amazon may buy it"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Could Amazon buy the world&#39;s largest chain of movie theaters? AMC Entertainment&#39;s investors apparently hope so. For much of 2020, AMC&#39;s stock has been&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://qz.com/1855509/amcs-stock-is-surging-on-reports-amazon-may-buy-it/"
+                  ],
+                  "ht:news_item_source": [
+                    "Quartz"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Val Kilmer"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Val%20Kilmer"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 03:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t0.gstatic.com/images?q=tbn:ANd9GcTG3TCPqiveUpfpm0p1CHWffaLZfY_0tanOChnzjj8V9yTC_cVkgxFQ41db5xhpeAMaXWou-SXI"
+              ],
+              "ht:picture_source": [
+                "Showbiz Cheat Sheet"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Val Kilmer Admits He &#39;Alienated the Head of Every Major Studio ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Val Kilmer has been called a difficult actor. Find out what he said about it changing his career and what his previous directors said about him."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cheatsheet.com/entertainment/val-kilmer-admits-he-alienated-the-head-of-every-major-studio-after-being-labeled-difficult.html/"
+                  ],
+                  "ht:news_item_source": [
+                    "Showbiz Cheat Sheet"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Val Kilmer on Why He Only Made One Batman Movie: &#39;It&#39;s So Easy to ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Val Kilmer did not enjoy his time starring as the caped crusader in 1995&#39;s Batman Forever."
+                  ],
+                  "ht:news_item_url": [
+                    "https://people.com/movies/val-kilmer-reveals-why-he-only-made-one-batman-movie/"
+                  ],
+                  "ht:news_item_source": [
+                    "PEOPLE.com"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Chuck Todd"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chuck%20Todd"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 12:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t1.gstatic.com/images?q=tbn:ANd9GcTJLpm3l8wN0q3o50UjQCA5BQauD9xw5gotIWlze2OiMz31ZjwZ7_WBYS7V6oxz5TxS7ydyPVlv"
+              ],
+              "ht:picture_source": [
+                "The Detroit News"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Trump blasts Comcast&#39;s NBC and calls for firing host Chuck Todd"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Trump said NBC should fire Chuck Todd in a series of tweets that invoked the FCC without specifying what the broadcast regulator should do."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.detroitnews.com/story/news/politics/2020/05/11/trump-blasts-comcasts-nbc-calls-firing-host-chuck-todd/111688210/"
+                  ],
+                  "ht:news_item_source": [
+                    "The Detroit News"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Trump, in a Mother&#39;s Day tweetstorm, says NBC&#39;s Chuck Todd ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Perhaps no one received as much ire from President Trump over the Flynn case on Sunday as NBC&#39;s “Meet the Press” and the show&#39;s host, Chuck Todd."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.washingtonpost.com/nation/2020/05/11/trump-chuck-todd-flynn/"
+                  ],
+                  "ht:news_item_source": [
+                    "Washington Post"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Yellowstone"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yellowstone"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 07:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t0.gstatic.com/images?q=tbn:ANd9GcRSBspqMlMCSVmf9ukOfLt-57ery9YPKK4REWCgtlaS8R9szcRXM9MG3w6LaKZBj_7eA1Mfr5LP"
+              ],
+              "ht:picture_source": [
+                "Express.co.uk"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Yellowstone volcano: &#39;Very unnerving&#39; discovery after Idaho ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "YELLOWSTONE VOLCANO expert Professor Mike Poland revealed a &#39;very unnerving&#39; discovery made by the USGS in the wake of two recent earthquakes&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.express.co.uk/news/science/1280689/yellowstone-volcano-usgs-mike-poland-idaho-earthquake-salt-lake-city-aftershock-spt"
+                  ],
+                  "ht:news_item_source": [
+                    "Express.co.uk"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Yellow Stone Volcano May Destroy USA"
+                  ],
+                  "ht:news_item_snippet": [
+                    "The Yellow Stone volcano could destroy the United States very soon. Most likely, the disappearance of the aircraft at the US military base."
+                  ],
+                  "ht:news_item_url": [
+                    "https://phonemantra.com/yellow-stone-volcano-may-destroy-usa/"
+                  ],
+                  "ht:news_item_source": [
+                    "Phone Mantra"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Mike Pence"
+              ],
+              "ht:approx_traffic": [
+                "50,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Pence"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 14:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t2.gstatic.com/images?q=tbn:ANd9GcSuy4gHqjn11KpB6MupcJIRVb1COAlF0thF6OW-o88x7zTesTZG2zkD_tjoWmufiCtPRMAv01Wa"
+              ],
+              "ht:picture_source": [
+                "CNN"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Why isn&#39;t Mike Pence self-quarantining? - CNNPolitics"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Vice President Mike Pence was spotted arriving at the White House just before 11 a.m. on Monday morning. He didn&#39;t wear a mask nor did the two aides walking&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cnn.com/2020/05/11/politics/mike-pence-quarantine-coronavirus-katie-miller/index.html"
+                  ],
+                  "ht:news_item_source": [
+                    "CNN"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Coronavirus in the White House: Mike Pence back at work as ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Trump administration officials spent the weekend scrambling as they attempted to do contact tracing for Katie Miller, Vice President Mike Pence&#39;s press secretary&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.mercurynews.com/coronavirus-in-the-white-house-mike-pence-back-at-work-as-contacts-are-traced"
+                  ],
+                  "ht:news_item_source": [
+                    "The Mercury News"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Billboard Top 100"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Billboard%20Top%20100"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 14:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t0.gstatic.com/images?q=tbn:ANd9GcTIsCowhE14Yp3oa7qFBokjrpHDu_WsxwyJwlMMVeJS9nkG6k1II4L_ZCGuSXUJCPbqYz2a2R6m"
+              ],
+              "ht:picture_source": [
+                "Billboard"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "38&#39;s Special: Drake Ties Madonna for Most Top 10 Billboard Hot 100 ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Drake ties the record for the most top 10 hits in the Billboard Hot 100&#39;s 61-year history, as he tallies his 38th top 10 on the latest chart, dated May 16."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.billboard.com/articles/business/chart-beat/9375872/drake-ties-madonna-most-top-10-billboard-hot-100-hits"
+                  ],
+                  "ht:news_item_source": [
+                    "Billboard"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Drake Ties Madonna For Most-Ever Top 10 Hits"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Drake lands another Top 10 hit in &#39;Pain 1993&#39; with Playboi Carti, which ties him with Madonna for the most-ever Top 10 singles on the Billboard Hot 100. Drak..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.hotnewhiphop.com/drake-ties-madonna-for-most-ever-top-10-hits-news.110250.html"
+                  ],
+                  "ht:news_item_source": [
+                    "HotNewHipHop"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Rey Mysterio"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rey%20Mysterio"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 13:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t1.gstatic.com/images?q=tbn:ANd9GcTHY506rCziIdoLsQLSCzG06uGxyBYUULggv3koZZ9HRcTku7q7CdXQyso5YIj7i-pQge1cmkox"
+              ],
+              "ht:picture_source": [
+                "Republic World"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Is Rey Mysterio dead? WWE fans worried after superstar thrown off ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "During the Money in the Bank Ladder match, King Corbin threw Rey Mysterio off the WWE Headquarters roof which made fans think that Rey Mysterio died."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.republicworld.com/sports-news/wwe-news/is-rey-mysterio-dead-wwe-fans-worried-after-superstar-thrown-off-roof.html"
+                  ],
+                  "ht:news_item_source": [
+                    "Republic World"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Rey Mysterio Signs New WWE Contract?"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Your browser does not currently recognize any of the video formats available. Click here to visit our frequently asked questions about HTML5 video."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.wrestlinginc.com/news/2020/05/rey-mysterio-signs-new-wwe-contract-670188/"
+                  ],
+                  "ht:news_item_source": [
+                    "Wrestling Inc."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Some Good News"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Some%20Good%20News"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 14:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t3.gstatic.com/images?q=tbn:ANd9GcTYj8GsFpzzIU_7whyzfabacEWJO1nMzrhs9KvSl-dESC2Os_gbLsZidqjGm2vYLpOrDwMSL58c"
+              ],
+              "ht:picture_source": [
+                "Boston.com"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "&#39;The Office&#39; cast reunited for a Zoom wedding with John Krasinski on ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "Love was in the air on Sunday&#39;s new episode of “Some Good News.” For the seventh episode of John Krasinski&#39;s YouTube show highlighting the positive news&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.boston.com/culture/coronavirus/2020/05/11/the-office-cast-reunion-john-krasinski"
+                  ],
+                  "ht:news_item_source": [
+                    "Boston.com"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Watch John Krasinski reunite &#39;The Office&#39; cast for a wedding"
+                  ],
+                  "ht:news_item_snippet": [
+                    "John Krasinski reunited with Steve Carell, Jenna Fisher, Rainn Wilson, Mindy Kaling and other &#39;Office&#39; alumni for an episode of &#39;Some Good News.&#39;"
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.latimes.com/entertainment-arts/tv/story/2020-05-11/john-krasinski-the-office-reunion-some-good-news"
+                  ],
+                  "ht:news_item_source": [
+                    "Los Angeles Times"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Future"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Future"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 14:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t2.gstatic.com/images?q=tbn:ANd9GcSPpfy5N80jlOr2Qs4B6q_TL09henNEPKydPPmamEhHEmjP3wM49BF9ZaIoTNdiC8mc9Ux_OVnB"
+              ],
+              "ht:picture_source": [
+                "Vulture"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "No One Had a Messier Mother&#39;s Day Than Future and Diplo"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Future and Diplo had the messiest Mother&#39;s Day posts on the internet on Sunday. Future thanked six different baby mamas on Twitter, while Diplo revealed his&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.vulture.com/2020/05/future-diplo-baby-mama-mothers-day.html"
+                  ],
+                  "ht:news_item_source": [
+                    "Vulture"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Future information technologies: 3D quantum spin liquid revealed"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Date: May 11, 2020; Source: Helmholtz-Zentrum Berlin für Materialien und Energie; Summary: Quantum spin liquids are candidates for potential use in future&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.sciencedaily.com/releases/2020/05/200511112614.htm"
+                  ],
+                  "ht:news_item_source": [
+                    "Science Daily"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Beauty and the Beast"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beauty%20and%20the%20Beast"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 00:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t2.gstatic.com/images?q=tbn:ANd9GcQnIC8dvTcbJU34tfyT_4LFxYHNK8gVSUYHPZAouKR4mA4DQwHhRuS51gbM0-ma8QU0C-AC7dTpeA"
+              ],
+              "ht:picture_source": [
+                "Today.com"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "John Legend and Jennifer Hudson perform &#39;Beauty and the Beast&#39;"
+                  ],
+                  "ht:news_item_snippet": [
+                    "What happens when two superstars combine their talents on an iconic song? You get an update for the ages! Get the latest from TODAY. Sign up for our&nbsp;..."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.today.com/popculture/john-legend-jennifer-hudson-perform-beauty-beast-t181245"
+                  ],
+                  "ht:news_item_source": [
+                    "Today.com"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Disney Family Singalong: Jennifer Hudson, John Legend perform ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "The two performed at the second round of &#39;Disney Family Singalong&#39; event."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.deseret.com/entertainment/2020/5/11/21254616/disney-family-singalong-jennifer-hudson-john-legend-beauty-and-the-beast"
+                  ],
+                  "ht:news_item_source": [
+                    "Deseret News"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "When is Memorial Day"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#When%20is%20Memorial%20Day"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 15:00:00 -0700"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Legion cancels Auburn&#39;s Memorial Day service"
+                  ],
+                  "ht:news_item_snippet": [
+                    "AUBURN — American Legion Post 97 has canceled its traditional Memorial Day service on the courthouse square in downtown Auburn."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.kpcnews.com/thestar/article_4cece9bc-726c-5970-8a0d-58cce0cfadad.html"
+                  ],
+                  "ht:news_item_source": [
+                    "KPCnews.com"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Desi Perkins"
+              ],
+              "ht:approx_traffic": [
+                "20,000+"
+              ],
+              "description": [
+                ""
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Desi%20Perkins"
+              ],
+              "pubDate": [
+                "Mon, 11 May 2020 12:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t2.gstatic.com/images?q=tbn:ANd9GcTJoGRbF5rhfOB5STYYRLsj5ogr8wK7GrXRKNtMazSI-PyGrTfrPrezATDN5rdGyFOtlvzsZxDm"
+              ],
+              "ht:picture_source": [
+                "cosmopolitan.com"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Desi Perkins reveals she&#39;s pregnant after sharing her IVF journey"
+                  ],
+                  "ht:news_item_snippet": [
+                    "The Beauty YouTuber star made the announcement on Instagram after opening up about her fertility struggles on YouTube."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cosmopolitan.com/uk/beauty-hair/a32431204/desi-perkins-pregant-ivf/"
+                  ],
+                  "ht:news_item_source": [
+                    "cosmopolitan.com"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "YouTuber Desi Perkins Announces Pregnancy With First Child ..."
+                  ],
+                  "ht:news_item_snippet": [
+                    "https://www.instagram.com/p/CABNhyNpSBg/ Editor&#39;s Note: The following story discusses instances of miscarriage and could be triggering for some people."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.popsugar.co.uk/celebrity/desi-perkins-announces-pregnancy-47459983"
+                  ],
+                  "ht:news_item_source": [
+                    "POPSUGAR UK"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": [
+                "Betty Wright"
+              ],
+              "ht:approx_traffic": [
+                "1,000,000+"
+              ],
+              "description": [
+                "Betty Wright dead"
+              ],
+              "link": [
+                "https://trends.google.com/trends/trendingsearches/daily?geo=US#Betty%20Wright"
+              ],
+              "pubDate": [
+                "Sun, 10 May 2020 08:00:00 -0700"
+              ],
+              "ht:picture": [
+                "https://t2.gstatic.com/images?q=tbn:ANd9GcTUpWABvqPdf1ITk1IswYRUlFhJZ5BlJ7oxFYHn3DgMAgRNe0WOV_dATwHzv7Ax4edQypYNSrr3"
+              ],
+              "ht:picture_source": [
+                "CNN"
+              ],
+              "ht:news_item": [
+                {
+                  "ht:news_item_title": [
+                    "Betty Wright, soul singer, has died - CNN"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Soul singer Betty Wright has died from cancer, according to reports from multiple media outlets."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.cnn.com/2020/05/11/entertainment/betty-wright-dead-obit-trnd/index.html"
+                  ],
+                  "ht:news_item_source": [
+                    "CNN"
+                  ]
+                },
+                {
+                  "ht:news_item_title": [
+                    "Betty Wright obituary"
+                  ],
+                  "ht:news_item_snippet": [
+                    "Soulful singer and songwriter associated with the &#39;Miami sound&#39; whose music maintained its relevance across the decades."
+                  ],
+                  "ht:news_item_url": [
+                    "https://www.theguardian.com/music/2020/may/11/betty-wright-obituary"
+                  ],
+                  "ht:news_item_source": [
+                    "The Guardian"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
