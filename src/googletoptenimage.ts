@@ -1,8 +1,11 @@
 import { doesNotReject } from "assert";
 
 // tslint:disable: no-var-requires
+// tslint:disable: object-literal-sort-keys
 const fs = require('fs');
 const axios = require('axios'); 
+const {Readable} = require('stream');
+const jpeg = require('jpeg-js');
 
 // const { createCanvas, loadImage } = require('canvas');
 const GoogleTopTenData = require('././googletoptendata');
@@ -25,7 +28,7 @@ module.exports = class GoogleTopTenImage {
         this.logger = logger;
     }
 
-    public async saveImageStream(dataItem, fileName) {
+    public async saveImageStream(dataItem) {
         // dataItem.number
         // dataItem.title 
         // dataItem.pictureUrl
@@ -106,7 +109,15 @@ module.exports = class GoogleTopTenImage {
             ctx.fillText(detailLines[detailLine], DetailOffsetX, DetailOffsetY + (lineNumber++ * 80));            
         }
     
-        await pure.encodeJPEGToStream(img, fs.createWriteStream(fileName), 50);
+        // await pure.encodeJPEGToStream(img, fs.createWriteStream(fileName), 50);
+
+        const jpegImg = jpeg.encode(img, 50);
+        // const jpegImgStream = new Readable({
+        //     read() {
+        //       this.push(jpegImg.data);
+        //       this.push(null);
+        //     }
+        // });
         
         // How long is this image good for
         const goodForMins = 60;
@@ -115,7 +126,10 @@ module.exports = class GoogleTopTenImage {
         expires.setMinutes(expires.getMinutes() + goodForMins);
 
         return {
-            expires: expires.toUTCString()
+            expires: expires.toUTCString(),
+            imageType: "jpg",
+            imageData: jpegImg,
+            stream: null
         }
     }
 

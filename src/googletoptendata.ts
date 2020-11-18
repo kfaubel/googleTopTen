@@ -58,7 +58,7 @@ module.exports = class GoogleTopTenData {
 
     private fixString(inStr) {
         let outStr = inStr;
-        outStr = outStr.replace(/&amp/g, "&");
+        outStr = outStr.replace(/&amp;/g, "&");
         outStr = outStr.replace(/<b>/g, "");
         outStr = outStr.replace("</b>", "");    // TODO fix - (/</b>/g, "")
         outStr = outStr.replace(/&#39;/g, "'");
@@ -95,7 +95,7 @@ module.exports = class GoogleTopTenData {
 
                     for(let i:number = 0; i < count; i++) {
                         const trend:any = {};
-                        trend.number  = i+1;
+                        trend.number  = (i+1);
                         trend.title   = this.fixString(result.rss.channel[0].item[i].title[0]);
                         trend.pictureUrl =                result.rss.channel[0].item[i]['ht:picture'][0];
                         trend.details = this.fixString(result.rss.channel[0].item[i]['ht:news_item'][0]['ht:news_item_title'][0]);

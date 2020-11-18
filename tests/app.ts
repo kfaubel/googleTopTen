@@ -15,7 +15,7 @@ const GoogleTopTenImage = require('../src/GoogleTopTenImage');
 
 // Create a new express application instance
 async function run() {
-    logger.info("Hi");
+    logger.info("googleTopTen - app.ts");
 
     const ten: number = 10;
     const googleTopTenData = new GoogleTopTenData(logger);
@@ -26,37 +26,18 @@ async function run() {
     const imageList: any[] = [];
 
     for(let i: number = 0; i < ten; i++) {
-        const fileName = __dirname +'/../top-ten-' + i + '.jpg';
-        const item: any = await googleTopTenImage.saveImageStream(data[i], fileName);
+        // const fileName = __dirname +'/../top-ten-' + i + '.jpg';
+        const item: any = await googleTopTenImage.saveImageStream(data[i]);
         imageList[i] = item;
 
         // logger.info("Expires: " + imageList[i].expires);
     }
 
+    logger.info("Data gathered.");
+
     for(let i: number = 0; i < ten; i++) {
-        // const imageStream = imageList[0].stream;
-        // logger.info("Expires: " + imageList[0].expires);
-
-        // console.log("__dirname: " + __dirname);
-        // const out = fs.createWriteStream(__dirname +'/../top-ten-' + i + '.png');
-
-        // const finished = util.promisify(stream.finished);
-
-        // imageStream.pipe(out);
-        // tslint:disable-next-line:no-console
-        // out.on('finish', () =>  logger.info('The PNG file ' + i + ' was created.\n'));
-
-        // await finished(out);
-    }    
+        fs.writeFileSync(__dirname +'/../top-ten-' + i + "." + imageList[i].imageType, imageList[i].imageData.data); 
+    } 
 }
 
-
 run();
-
-// app.get('/', function (req, res) {
-//   res.send('Hello World!');
-// });
-
-// app.listen(3000, function () {
-//   console.log('Example app listening on port 3000!');
-// });
