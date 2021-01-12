@@ -10,7 +10,8 @@
             "name": "Debug App",
             "preLaunchTask": "tsc: build - tsconfig.json",
  //           "preLaunchTask": "typescript",
-            "program": "${workspaceFolder}/tests/app.ts",
+            "program": "${workspaceFolder}/app.ts",
+            "args": ["."],
             "cwd" : "${workspaceFolder}",
             "protocol": "inspector",
             "outFiles": [

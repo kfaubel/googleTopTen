@@ -4,21 +4,20 @@ import { doesNotReject } from "assert";
 // tslint:disable: object-literal-sort-keys
 const fs = require('fs');
 const axios = require('axios'); 
-const {Readable} = require('stream');
+// const {Readable} = require('stream');
 const jpeg = require('jpeg-js');
 
 // const { createCanvas, loadImage } = require('canvas');
-const GoogleTopTenData = require('././googletoptendata');
+// const GoogleTopTenData = require('././googletoptendata');
 const pure = require('pureimage');
 // const pureTextPath = require('pureimage/src/text.js');
 // const pureregisterFont = require('pureimage/src/text.js');
 
+export class GoogleTopTenImage {
+    // private googleTopTenData: any;
+    // private dayList: any[] = [];
 
-module.exports = class GoogleTopTenImage {
-    private googleTopTenData: any;
-    private dayList: any[] = [];
-
-    private logger;
+    private logger:any;
 
     constructor(logger: any) {
         this.logger = logger;
@@ -28,7 +27,7 @@ module.exports = class GoogleTopTenImage {
         this.logger = logger;
     }
 
-    public async saveImageStream(dataItem) {
+    public async saveImageStream(dataItem:any) {
         // dataItem.number
         // dataItem.title 
         // dataItem.pictureUrl
@@ -90,7 +89,7 @@ module.exports = class GoogleTopTenImage {
 
         // Draw the title
         const title: string = `#${dataItem.number} ${dataItem.title}`
-        this.logger.info(`Title: ${title}`);
+        this.logger.verbose(`Title: ${title}`);
         const titleLines: string[] = this.splitLine(title, 25, 2);       
 
         let lineNumber: number = 0;
@@ -158,5 +157,4 @@ module.exports = class GoogleTopTenImage {
         }
         return list;
     }
-
 }

@@ -48,12 +48,11 @@ let axios = require('axios');
 //     }
 // } 
 
-module.exports = class GoogleTopTenData {
+export class GoogleTopTenData {
     private logger: any;
 
     constructor(logger: any) {
         this.logger = logger;
-        this.logger.setLevel("verbose");
     }
 
     private fixString(inStr) {
@@ -67,10 +66,9 @@ module.exports = class GoogleTopTenData {
     }
 
     // tslint:disable-next-line: member-ordering
-    public async getData(count: number) {
-        const url = "https://www.google.com/trends/hottrends/atom/feed?pn=p1";        
+    public async getData(url, count: number) {       
 
-        this.logger.info("URL: " + url);
+        this.logger.verbose("URL: " + url);
 
         // const headers = {
         //     'Access-Control-Allow-Origin': '*',
@@ -119,3 +117,4 @@ module.exports = class GoogleTopTenData {
         return theData;
     }
 }
+//export default GoogleTopTenData
