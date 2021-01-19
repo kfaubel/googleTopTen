@@ -48,7 +48,7 @@ let axios = require('axios');
 //     }
 // } 
 
-export class GoogleTopTenData {
+export class googletoptendata {
     private logger: any;
 
     constructor(logger: any) {
@@ -117,4 +117,3 @@ export class GoogleTopTenData {
         return theData;
     }
 }
-//export default GoogleTopTenData

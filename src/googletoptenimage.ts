@@ -13,7 +13,7 @@ const pure = require('pureimage');
 // const pureTextPath = require('pureimage/src/text.js');
 // const pureregisterFont = require('pureimage/src/text.js');
 
-export class GoogleTopTenImage {
+export class googletoptenimage {
     // private googleTopTenData: any;
     // private dayList: any[] = [];
 
@@ -76,6 +76,7 @@ export class GoogleTopTenImage {
         // This works perfectly well! 
 
         try {
+            this.logger.verbose("dataItem: " + JSON.stringify(dataItem, undefined, 2));
             const response:any = await axios.get(dataItem.pictureUrl, {responseType: "stream"} );
             const picture:any = await pure.decodeJPEGFromStream(response.data);
             await pure.encodeJPEGToStream(picture,fs.createWriteStream("picture.jpg"), 50);
@@ -89,7 +90,6 @@ export class GoogleTopTenImage {
 
         // Draw the title
         const title: string = `#${dataItem.number} ${dataItem.title}`
-        this.logger.verbose(`Title: ${title}`);
         const titleLines: string[] = this.splitLine(title, 25, 2);       
 
         let lineNumber: number = 0;

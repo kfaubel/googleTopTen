@@ -47,19 +47,19 @@ async function update(imageDir) {
     logger.verbose("googleTopTen - app.ts: update()");
 
     const ten: number = 10;
-    const googleTopTenData: Data.GoogleTopTenData = new Data.GoogleTopTenData(logger);
-    const googleTopTenImage: Image.GoogleTopTenImage = new Image.GoogleTopTenImage(logger);
+    const googletoptendata: Data.googletoptendata = new Data.googletoptendata(logger);
+    const googletoptenimage: Image.googletoptenimage = new Image.googletoptenimage(logger);
 
     const url = "https://www.google.com/trends/hottrends/atom/feed?pn=p1"; 
     logger.info(`Loading ${url}`);
 
-    const data:any = await googleTopTenData.getData(url, ten);
+    const data:any = await googletoptendata.getData(url, ten);
     logger.verbose("data: " + JSON.stringify(data, undefined, 2));
 
     const imageList: any[] = [];
 
     for(let i: number = 0; i < ten; i++) {
-        const item: any = await googleTopTenImage.saveImageStream(data[i]);
+        const item: any = await googletoptenimage.saveImageStream(data[i]);
         imageList[i] = item;
     }
 
